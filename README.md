@@ -38,3 +38,5 @@
     `Runner.instance_.playingIntro = false;`
 ## Auto Play 
    **Paste all code from the file auto_dino.js**
+## jump high
+`Runner.instance_.tRex.setJumpVelocity(100)`
